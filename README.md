@@ -23,9 +23,9 @@ https://scrapbox.io/SC18HandsOn-Share/
 
 
 * What are *scrap* box and *Gyazo* ?
- * ![Scrapbox Logo](/images/ScrapboxLogo.png) *Scrapbox* : A new style of team-note taking
- * ![Gyazo Logo](/images/GyazoLogo.png) *Gyazo* : Instantly capture everything
- * Resources :
-   * Nota Inc. Homepage (English): https://www.notainc.com/en
-   * Twitter (Japanese and English): https://twitter.com/search?q=%23scrapbox
+  * *Scrapbox* ![Scrapbox Logo](/images/ScrapboxLogo.png) : A new style of team-note taking
+  * *Gyazo* ![Gyazo Logo](/images/GyazoLogo.png) : Instantly capture everything
+  * Resources :
+    * Nota Inc. Homepage (English): https://www.notainc.com/en
+    * Twitter (Japanese and English): https://twitter.com/search?q=%23scrapbox
 
