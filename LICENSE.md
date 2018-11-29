@@ -1,10 +1,13 @@
 All the copyright remains in NEC Enterprise Communication Technologies, Inc and NEC Corporation.
-(C) 2018 NEC Enterprise Communication Technologies, Inc
-(C) 2018 NEC Corporation
+
+* (C) 2018 NEC Enterprise Communication Technologies, Inc
+
+* (C) 2018 NEC Corporation
 
 Our license scheme follows community prefered Apache License scheme below:
 
---
+---
+
   Apache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
