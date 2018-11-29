@@ -22,7 +22,7 @@ https://scrapbox.io/SC18HandsOn-Share/
 ![Scrapbox Setup](/images/ScrapboxSetup.png)
 
 
-* What are *scrap* box and *Gyazo* ?
+* What are *Scrapbox* and *Gyazo* ?
   * *Scrapbox* ![Scrapbox Logo](/images/ScrapboxLogo.png) : A new style of team-note taking
   * *Gyazo* ![Gyazo Logo](/images/GyazoLogo.png) : Instantly capture everything
   * Resources :
