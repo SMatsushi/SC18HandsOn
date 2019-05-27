@@ -3,6 +3,7 @@
 
 # Description
 Resources at Supercomputing 2018 hands-on about NEC SX Aurora Tsubasa Vectorizing Compiler
+Revising it for ISC 2019. Setup.sh now works with sdk 2.1.0, 1.3.0, 1.2.0, 1.1.0
 
 # Files
 * README.md : this Mark Down description
